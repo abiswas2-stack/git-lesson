@@ -1,6 +1,7 @@
-#My todo list
+# My todo list
 
-Learn github
-Read papers
-Chores
-do not forget food
+[x] Learn github
+[] Read papers
+[] Chores
+[] do not forget food
+[] cook dinner
